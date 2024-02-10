@@ -1,4 +1,4 @@
-# Hi there I'm Zak 👋
+# Hi there, I'm Zak 👋
 
 ### I'm currently working on:
 <ul>
