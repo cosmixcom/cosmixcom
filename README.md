@@ -4,7 +4,7 @@
 <ul>
   <li><a href="//zymono.com">Zymono</a></li>
 <!--   <li><a href="//carbon.toggled.tech">Carbon</a></li> -->
-  <li><a href="//toggled.tech">Toggled.tech</a></li>
+  <li><a href="//www.paranexum.com">Paranexum</a></li>
 </ul>
 
 ### How to Reach me:
